@@ -1,1 +1,3 @@
-Make comflict too
+
+Developer B also edit to makes conflict
+Developer A has edited index file
